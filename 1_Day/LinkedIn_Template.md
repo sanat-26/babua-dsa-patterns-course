@@ -21,6 +21,7 @@ Here’s what I learned today:
 Think logically about how two pointers can meet, chase, or pass each other — and you can solve many tricky problems elegantly!
 
 Lecture: [Link](https://youtu.be/Elnhh8cC2vM)
+
 ✅ **Day 1 complete!**
 Excited to move on to **Day 2** and keep the momentum going 💪
 
